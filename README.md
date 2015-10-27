@@ -1,6 +1,8 @@
 # PLOCR
 OCR main part
 
+GNU(Gnu is Not Unix) General Public License(GPL)
+
 
 
 # A .NET wrapper for tesseract-ocr_License
