@@ -1,0 +1,11 @@
+-- Script Date: 2015-03-11 오후 3:24  - ErikEJ.SqlCeScripting version 3.5.2.43
+CREATE TABLE [Patient] (
+  [Id] INTEGER NOT NULL
+, [PatientNumber] nvarchar(100) NOT NULL
+, [PatientName] nvarchar(100) NOT NULL
+, [FPatientNumber] nvarchar(100) NULL
+, [FPatientName] nvarchar(100) NULL
+, [useTrueFalse] tinyint NOT NULL
+, [inquiryTrueFalse] tinyint NOT NULL
+, CONSTRAINT [PK_Patient] PRIMARY KEY ([Id])
+);

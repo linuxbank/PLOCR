@@ -1,0 +1,15 @@
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Debug\PLOCR.exe.config
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Debug\PLOCR.exe
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Debug\PLOCR.pdb
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Debug\AForge.xml
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Debug\AForge.Imaging.xml
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Debug\AForge.Math.xml
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Debug\PLOCR.exe
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Debug\PLOCR.pdb
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Debug\PLOCR.csprojResolveAssemblyReference.cache
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Debug\PLOCR.csproj.GenerateResource.Cache
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Debug\PLOCR.Properties.Resources.resources
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Debug\PLOCR.DataEdit.resources
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Debug\PLOCR.splashPres.resources
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Debug\PLOCR.splashOcr.resources
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Debug\PLOCR.splashImageProcess.resources

@@ -1,0 +1,21 @@
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Release\PLOCR.exe.config
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Release\PLOCR.exe
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Release\PLOCR.pdb
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Release\AForge.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Release\AForge.Imaging.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Release\AForge.Math.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Release\Saraff.Twain.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Release\System.Data.SQLite.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\bin\Release\Tesseract.dll
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Release\PLOCR.DataEdit.resources
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Release\PLOCR.Properties.Resources.resources
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Release\PLOCR.splashData.resources
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Release\PLOCR.splashImageProcess.resources
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Release\PLOCR.splashOcr.resources
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Release\PLOCR.splashPres.resources
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Release\PLOCR.csproj.GenerateResource.Cache
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Release\PLOCR.exe
+C:\Users\pper\Documents\Visual Studio 2010\Projects\PLOCR\PLOCR\obj\x86\Release\PLOCR.pdb
+C:\Users\pper\Desktop\배포용\PLOCR\PLOCR\bin\Release\PLOCR.exe.config
+C:\Users\pper\Desktop\배포용\PLOCR\PLOCR\obj\x86\Release\PLOCR.exe
+C:\Users\pper\Desktop\배포용\PLOCR\PLOCR\obj\x86\Release\PLOCR.pdb
